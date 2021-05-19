@@ -1,6 +1,6 @@
 Novo arquivo para envio ao Github
 
-como enviar notificações para github
+Como enviar notificações para github e puxar notificações do github
 
 Uma outra linha
 
