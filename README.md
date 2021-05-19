@@ -6,4 +6,4 @@ Uma outra linha
 
 Inclusão de linha
 
-Inclusão para aula
+Inclusão para aula. Testando git pull, git push, e resolvendo conflitos. 
